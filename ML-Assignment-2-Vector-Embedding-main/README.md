@@ -2,8 +2,8 @@
 
 ## Student Information
 
-**Name:** Nabeel T  
-**Register Number:** LTCR24CS075
+**Name:** Afeef Rahman U P
+**Register Number:** TCR24CS006
 
 ---
 
